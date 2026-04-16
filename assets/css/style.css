@@ -6,8 +6,8 @@
 
 /* ── TOKENS ──────────────────────────────────────── */
 :root {
-  --navy:    #0d1f3c;
-  --navy2:   #162847;
+  --navy:    #1f2937;
+  --navy2:   #374151;
   --orange:  #e8431c;
   --orange2: #ff5a31;
   --white:   #ffffff;
@@ -90,7 +90,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   height: 72px;
   gap: 24px;
 }
-.navbar-logo img { height: 44px; width: auto; }
+.navbar-logo img { height: 58px; width: auto; }
 .navbar-nav {
   display: flex;
   gap: 4px;
@@ -1024,7 +1024,7 @@ h2.section-title.light { color: var(--white); }
   gap: 48px;
   padding-bottom: 56px;
 }
-.footer-brand img { height: 42px; width: auto; margin-bottom: 16px; }
+.footer-brand img { height: 56px; width: auto; margin-bottom: 16px; }
 .footer-brand p { font-size: .88rem; line-height: 1.8; color: rgba(255,255,255,.5); }
 .footer-socials { display: flex; gap: 10px; margin-top: 20px; }
 .footer-socials a {
